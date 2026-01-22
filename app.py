@@ -1,3 +1,4 @@
+import streamlit
 st.title("Анкета за успех")
 
 
