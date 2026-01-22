@@ -9,5 +9,5 @@ subject = st.selectbox("Избери предмет")
 text = st.text("Вуведи какво спортуваш")
 st.text_input()
 
-st.button ()
+st.button ("select")
 
